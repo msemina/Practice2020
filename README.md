@@ -9,3 +9,8 @@
 
 ### Исходные данные:
 - В данной работе используется [German Credit Data Set.](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data) "Датасет")
+
+### Описание файлов:
+- Practice2020.ipynb - исходный код
+- Практика2020_Сёмина.docx - отчёт по практике
+- german_data.csv - используемые данные
